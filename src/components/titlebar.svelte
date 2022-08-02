@@ -14,7 +14,7 @@ import { faGithub } from '@fortawesome/free-brands-svg-icons';
 <header class="flex w-full">
 	<div class="logo p-3.5">
 		<a
-			href="https://github.com/MrValk?tab=repositories"
+			href="https://github.com/MrValk/uitest"
 			target="_blank"
 			class="rounded-full flex w-fit hover:scale-105 transition">
 			<Fa icon="{faGithub}" class="icon text-5xl text-white" />
