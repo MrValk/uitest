@@ -2,7 +2,7 @@
 
 Just a demo of using SVG's as the background, using SvelteKit, TailwindCSS, Haikei and Sass.
 
-    ![The homepage of the website](https://raw.githubusercontent.com/MrValk/uitest/master/static/homepage.png)
+    ![The homepage of the website](https://raw.githubusercontent.com/MrValk/uitest/master/static/homepage.png?raw=true)
 
 # Running the demo
 
